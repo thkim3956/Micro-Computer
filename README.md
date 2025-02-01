@@ -1,1 +1,1 @@
-# micro-computer
+# Micro-Computer
